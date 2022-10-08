@@ -1,26 +1,26 @@
-# API для Yatube.
-## **Социальная сеть блогеров**
-+ ### __Описание__:
-   - _Это будет социальная сеть для публикации личных дневников. Пользователи смогут создать свою страницу. Пользователи так-же смогут заходить на чужие страницы, и посмотреть все записи других авторов, подписаться на них и комментировать их записи. Автор может выбрать имя и уникальный адрес для своей страницы._
+# API for Yatube.
+## **Social network of bloggers**
++ ### __Description__:
+   - _This will be a social network for publishing personal diaries. Users will be able to create their own page. Users will also be able to visit other people's pages, see all their posts, subscribe to them, and comment on their posts. Authors can choose a name and a unique address for their page.
   
-+ ### __Технологии:__
++ ### __Technology:__
    - Python 3.8.10
    - Django 2.2.19
   
-+ ### __Запуск проекта в dev-режиме__
-  - Установите и активируйте виртуальное окружение
-  - установите зависимости из файла requirements.txt
-     >```pip install -r requirements.txt```
++ ### __Starting the project in dev mode__
+  - Install and activate the virtual environment
+  - install dependencies from requirements.txt file
+     >``pip install -r requirements.txt``.
     
-  - В папке с файлом manage.py выполните команду:
-     >```python3 manage.py runserver```
+  - In the folder with the file manage.py run the command:
+     >``python3 manage.py runserver``.
      
-     _Для Windos_:
-     >```python manage.py runserver```
+     _For Windos_:
+     >```python manage.py runserver```.
 
-+ ### __Когда вы запустите проект, будет доступна документация для API Yatube.__
++ ### __When you run the project the documentation for the Yatube API will be available.
   - (http://127.0.0.1:8000/redoc/) 
   
 
-### ___Авторы___
-___Марчиладзе Г.Д.___     
+### ___Authors___
+___Marchiladze G.D.___     
